@@ -15,7 +15,6 @@
         $name = '';
     };
 
-    /*$name = isset($_GET['name']) ? $_GET['name'] : '';*/
 
     $verify_name = strlen($name );
 
